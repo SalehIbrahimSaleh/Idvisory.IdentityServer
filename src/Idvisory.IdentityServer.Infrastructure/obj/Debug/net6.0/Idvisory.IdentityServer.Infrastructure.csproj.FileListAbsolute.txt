@@ -1,0 +1,14 @@
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\bin\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.deps.json
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\bin\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.runtimeconfig.json
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\bin\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.dll
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\bin\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.pdb
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.AssemblyInfo.cs
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.dll
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\refint\Idvisory.IdentityServer.Infrastructure.dll
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.pdb
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\Idvisory.IdentityServer.Infrastructure.genruntimeconfig.cache
+C:\Work\Advisory\Idvisory.IdentityServer\src\Idvisory.IdentityServer.Infrastructure\obj\Debug\net6.0\ref\Idvisory.IdentityServer.Infrastructure.dll
